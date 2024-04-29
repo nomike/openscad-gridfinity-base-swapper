@@ -4,3 +4,6 @@
 [submodule "gridfinity-rebuilt-openscad"]
 	path = gridfinity-rebuilt-openscad
 	url = https://github.com/kennetek/gridfinity-rebuilt-openscad.git
+[submodule "gridfinity_openscad"]
+	path = gridfinity_openscad
+	url = https://github.com/vector76/gridfinity_openscad.git
